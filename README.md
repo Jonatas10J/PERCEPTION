@@ -1,7 +1,8 @@
 # PERCEPTION
 O projeto Perception visa desenvolver um aplicativo inclusivo de celular para ajudar pessoas com deficiência visual a navegar pelo sistema de transporte público com mais facilidade e autonomia.
 
-Funcionalidades Principais
+# Funcionalidades Principais
+
 Localização de Ônibus: Permite aos usuários encontrar seus ônibus em tempo real utilizando GPS.
 
 Descoberta de Rotas: Ajuda os usuários a descobrir as rotas mais eficientes para chegar ao seu destino.
